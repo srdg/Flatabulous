@@ -36,7 +36,7 @@ sudo apt-get update
 sudo apt-get install ubuntu-tweak
 ```
 
-or head over to their website, downloading the .deb file (recommended).
+or head over to this [website](https://launchpad.net/ubuntu-tweak), downloading the .deb file (recommended).
 
 ## 1. Using the .deb file for Debian, Ubuntu and derivatives (Recommended)
 
